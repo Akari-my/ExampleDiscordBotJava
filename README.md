@@ -4,7 +4,7 @@ An Example for a Discord Bot in Java using JDA
 # Maven:
 ```xml
 <properties>
-        Set your own path
+        // Set your own path, Obviously you will also have to change the path in the folders
         <main.class>org.akari.Main</main.class>
 </properties>
 ```
